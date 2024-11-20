@@ -13,10 +13,11 @@ STEP1:connect to mysql by using python code.
 
 STEP2:Inserted the required tables to mysql database 
 
-STEP3:created the necessary questions for visualization in mysql .
+STEP3:created the necessary questions in mysql for visualization at powerbi .
 
 STEP4:connect the mysql database to powerbi for visualizing the query.
 
+STEP5:visualize the output of project
 
 **TECHNOLOGY STACK**:
 
