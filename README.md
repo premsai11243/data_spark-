@@ -11,6 +11,8 @@ then data were integrated with other data files and it would processed of EDA
 
 STEP1:connect to mysql by using python code.
 
+To connect sql by import the pymysql connector.
+
 STEP2:Inserted the required tables to mysql database 
 
 STEP3:created the necessary questions in mysql for visualization at powerbi .
