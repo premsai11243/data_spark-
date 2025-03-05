@@ -1,8 +1,6 @@
 
     <h2>DataSpark - Illuminating Insights for Global Electronics</h2>
 
-<body>
-
     <h1>DataSpark - Illuminating Insights for Global Electronics</h1>
 
     <p>The <strong>DataSpark Globe Electronics</strong> project is designed to empower businesses in the electronics industry by leveraging data analytics to drive informed decision-making and foster growth. This project focuses on analyzing sales data, customer behavior, and market trends to provide actionable insights, optimize operations, and enhance profitability.</p>
@@ -28,8 +26,6 @@
         <li><strong>Analytics Tools:</strong> Power BI</li>
     </ul>
 
-</body>
-</html>
 
 
 
