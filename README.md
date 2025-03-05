@@ -1,31 +1,39 @@
-**THE PROJECT NAME**:DataSpark-Illuminating Insights for Global Electronics
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataSpark - Illuminating Insights for Global Electronics</title>
+</head>
+<body>
 
+    <h1>DataSpark - Illuminating Insights for Global Electronics</h1>
 
-The DataSpark Globe Electronics project is designed to empower businesses in the electronics industry by leveraging data analytics to drive informed decision-making and foster growth. This project focuses on analyzing sales data, customer behavior, and market trends to provide actionable insights, optimize operations, and enhance profitability.
+    <p>The <strong>DataSpark Globe Electronics</strong> project is designed to empower businesses in the electronics industry by leveraging data analytics to drive informed decision-making and foster growth. This project focuses on analyzing sales data, customer behavior, and market trends to provide actionable insights, optimize operations, and enhance profitability.</p>
 
-**ANALYSIS PROCESS:**
+    <h2>Analysis Process:</h2>
+    <ul>
+        <li>Data were processed to clean and preprocess.</li>
+        <li>Then data were integrated with other data files and processed for EDA.</li>
+    </ul>
 
-Data were processed to clean and it would preprocessed
+    <h3>Steps Involved:</h3>
+    <ol>
+        <li><strong>1:</strong> Connect to MySQL using Python code.</li>
+        <li><strong>2:</strong> Insert the required tables into the MySQL database.</li>
+        <li><strong>3:</strong> Create the necessary queries in MySQL for visualization in Power BI.</li>
+        <li><strong>4:</strong> Connect the MySQL database to Power BI for visualizing the queries.</li>
+        <li><strong>5:</strong> Visualize the project output.</li>
+    </ol>
 
-then data were integrated with other data files and it would processed of EDA
+    <h2>Technology Stack:</h2>
+    <ul>
+        <li><strong>Backend:</strong> Python (Pandas, NumPy), SQL</li>
+        <li><strong>Analytics Tools:</strong> Power BI</li>
+    </ul>
 
-STEP1:connect to mysql by using python code.
-
-To connect sql by import the pymysql connector.
-
-STEP2:Inserted the required tables to mysql database 
-
-STEP3:created the necessary questions in mysql for visualization at powerbi .
-
-STEP4:connect the mysql database to powerbi for visualizing the query.
-
-STEP5:visualize the output of project
-
-**TECHNOLOGY STACK**:
-
-Backend: Python (Pandas, NumPy), SQL
-
-Analytics Tools: Power BI 
+</body>
+</html>
 
 
 
