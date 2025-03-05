@@ -1,34 +1,25 @@
+# DataSpark - Illuminating Insights for Global Electronics
 
-    <h2>DataSpark - Illuminating Insights for Global Electronics</h2>
+## Overview  
+The **DataSpark Globe Electronics** project is designed to empower businesses in the electronics industry by leveraging data analytics to drive informed decision-making and foster growth.  
+This project focuses on analyzing sales data, customer behavior, and market trends to provide actionable insights, optimize operations, and enhance profitability.
 
-    <h1>DataSpark - Illuminating Insights for Global Electronics</h1>
+## **Analysis Process**
+- Data were processed for cleaning and preprocessing.  
+- Integrated data with other files and performed Exploratory Data Analysis (EDA).  
 
-    <p>The <strong>DataSpark Globe Electronics</strong> project is designed to empower businesses in the electronics industry by leveraging data analytics to drive informed decision-making and foster growth. This project focuses on analyzing sales data, customer behavior, and market trends to provide actionable insights, optimize operations, and enhance profitability.</p>
+### **Steps Involved**
+1. **Connect to MySQL** using Python.  
+2. **Insert the required tables** into the MySQL database.  
+3. **Create SQL queries** for visualization in Power BI.  
+4. **Connect MySQL to Power BI** for data visualization.  
+5. **Visualize the project output** using Power BI dashboards.  
 
-    <h2>Analysis Process:</h2>
-    <ul>
-        <li>Data were processed to clean and preprocess.</li>
-        <li>Then data were integrated with other data files and processed for EDA.</li>
-    </ul>
+## **Technology Stack**
+- **Backend:** Python (Pandas, NumPy), SQL  
+- **Analytics Tools:** Power BI  
 
-    <h3>Steps Involved:</h3>
-    <ol>
-        <li><strong>1:</strong> Connect to MySQL using Python code.</li>
-        <li><strong>2:</strong> Insert the required tables into the MySQL database.</li>
-        <li><strong>3:</strong> Create the necessary queries in MySQL for visualization in Power BI.</li>
-        <li><strong>4:</strong> Connect the MySQL database to Power BI for visualizing the queries.</li>
-        <li><strong>5:</strong> Visualize the project output.</li>
-    </ol>
-
-    <h2>Technology Stack:</h2>
-    <ul>
-        <li><strong>Backend:</strong> Python (Pandas, NumPy), SQL</li>
-        <li><strong>Analytics Tools:</strong> Power BI</li>
-    </ul>
-
-
-
-
-
-
-
+## **Libraries Used**
+To run this project, install the following Python libraries:  
+```bash
+pip install pandas numpy mysql-connector-python sqlalchemy
